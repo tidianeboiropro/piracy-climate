@@ -4,6 +4,8 @@ data/
 .Rhistory
 .RData
 
+notes/private/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
