@@ -3,6 +3,7 @@ data/
 .Rproj.user/
 .Rhistory
 .RData
+*.duckdb.wal
 
 notes/private/
 
